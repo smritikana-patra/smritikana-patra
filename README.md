@@ -5,8 +5,10 @@
 💡 Interested in **Quantum Cryptography and Information Theory**  
 
 ## 🏆 Certificates  
-- [Qiskit Global Summer School 2024](link-to-certificate)
-- [Quantum Computing Fundamentals – IBM](link-to-certificate)
+- ### 🏆 Certificates
+
+- [GATE 2024 Qualified Certificate] 
+
 
 ## 📚 Research Interests  
 Quantum Information | Quantum Computation | Quantum Thermodynamics | Optimization  
