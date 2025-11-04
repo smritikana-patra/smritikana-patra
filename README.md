@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Smritikana Patra  
 
 🎓 PhD student in **Quantum Information**  
-🔬 Exploring **Quantum Computation, Communication, Thermodynamics, and Optimization**  
+🔬 Exploring **Quantum Computation, Communication, Algorithms, and Optimization**  
 💡 Interested in **Quantum Cryptography and Information Theory**  
 
 ## 🏆 Certificates  
