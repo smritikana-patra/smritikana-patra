@@ -7,7 +7,7 @@
 ## 🏆 Certificates  
 - ### 🏆 Certificates
 
-- [GATE 2024 Qualified Certificate] 
+- [GATE 2024 Qualified Certificate] (https://github.com/smritikana-patra/smritikana-patra/blob/main/GATE_Score_card_smritikana.pdf)
 
 
 ## 📚 Research Interests  
