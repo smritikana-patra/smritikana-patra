@@ -10,7 +10,7 @@
 - [GATE 2024 Qualified Certificate] (https://github.com/smritikana-patra/smritikana-patra/blob/main/GATE_Score_card_smritikana.pdf)
 - [JEST 2021 Qualified Certificate] (https://github.com/smritikana-patra/smritikana-patra/blob/main/JEST%20Scorecard.pdf)
 - [ISI Conference Certificate, 2025] (https://github.com/smritikana-patra/smritikana-patra/blob/main/ISI%20conference%202025.pdf)
-- [Qiskit Fall Fest Certificate, 2025] 
+- [Qiskit Fall Fest Certificate, 2025] (https://github.com/smritikana-patra/smritikana-patra/blob/main/QFF'25%20Participation%20Certificate%20(1).pdf)
 
 ## 📚 Research Interests  
 Quantum Information | Quantum Computation | Quantum Thermodynamics | Optimization  
